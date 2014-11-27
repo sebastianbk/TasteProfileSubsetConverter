@@ -1,0 +1,5 @@
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\Release\TasteProfileSubsetConverter.exe.config
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\Release\TasteProfileSubsetConverter.exe
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\Release\TasteProfileSubsetConverter.pdb
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\obj\Release\TasteProfileSubsetConverter.exe
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\obj\Release\TasteProfileSubsetConverter.pdb

@@ -1,0 +1,6 @@
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\x64\Release\TasteProfileSubsetConverter.exe.config
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\x64\Release\TasteProfileSubsetConverter.exe
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\bin\x64\Release\TasteProfileSubsetConverter.pdb
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\obj\x64\Release\TasteProfileSubsetConverter.exe
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\obj\x64\Release\TasteProfileSubsetConverter.pdb
+C:\Users\sbrand\OneDrive\Projects\TasteProfileSubsetConverter\TasteProfileSubsetConverter\obj\x64\Release\TasteProfileSubsetConverter.csprojResolveAssemblyReference.cache
